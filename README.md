@@ -76,17 +76,3 @@ The **Hybrid CNN-LSTM** model demonstrated superior performance, proving that au
 * **Machine Learning:** Scikit-Learn (SVM, RF, KNN, PCA)
 * **Deep Learning:** TensorFlow / Keras (LSTM, CNN)
 * **Visualization:** Matplotlib, Seaborn
-
-## 🚀 How to Run
-1.  Clone the repository:
-    ```bash
-    git clone [https://github.com/nadaahx/eeg-eye-state-detection.git](https://github.com/nadaahx/eeg-eye-state-detection.git)
-    ```
-2.  Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  Run the notebook:
-    ```bash
-    jupyter notebook eeg_analysis.ipynb
-    ```
